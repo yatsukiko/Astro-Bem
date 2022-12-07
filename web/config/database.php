@@ -74,7 +74,7 @@ return [
             'charset' => 'utf8',
             'prefix' => 'l_',
             'prefix_indexes' => true,
-            'search_path' => 'page',
+            'search_path' => 'public',
             'sslmode' => 'prefer',
         ],
 
